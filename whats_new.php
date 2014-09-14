@@ -2,10 +2,10 @@
 /*
 Plugin Name: Whats New 
 Description: Shows post,pages,products added since user last visit
-Plugin URI: http://profiles.wordpress.org/skomfare2/
+Plugin URI: http://wordpress.org/plugins/whats-new/
 Version: 1.0
 Author: Skomfare2
-Author URI: http://profiles.wordpress.org/skomfare2/
+Author URI: http://wordpress.org/plugins/whats-new/
 */
 
 class albdesign_whats_new {
