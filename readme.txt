@@ -20,6 +20,10 @@ Let you user easily know whats have been posted since their last login. Can be e
 * Enable or not for pages
 * Enable or not for woocommerce products
 * Show or not the featured images
+* Show or not the excerpt
+* Specify the excerpt length
+* Show or not the author
+* Show or not the published date
 * Customize text from plugin options page
 * Separate layout/design template so you can create your own template to be used and overwrite the one provided
 
