@@ -14,7 +14,7 @@ Let you user easily know whats have been posted since their last login .Can be e
 
 Let you user easily know whats have been posted since their last login .Can be enabled for posts , pages and woocommerce products
 
-<h4>Features</h4>
+Features
 
 * Enable or not for posts
 * Enable or not for pages
@@ -22,8 +22,6 @@ Let you user easily know whats have been posted since their last login .Can be e
 * Show or not the featured images
 * Customize text from plugin options page
 * Separate layout/design template so you can create your own template to be used and overwrite the one provided
-
-<h4>Other plugins</h4>
 
 Other plugins that you might like [Click Here](http://pidhasome.com/albdesign/plugins/woocommerce_donations/)
 
