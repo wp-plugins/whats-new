@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Let you user easily know whats have been posted since their last login .Can be enabled for posts , pages and woocommerce products
+Let you user easily know whats have been posted since their last login. Can be enabled for posts , pages and woocommerce products
 
 == Description ==
 
-Let you user easily know whats have been posted since their last login .Can be enabled for posts , pages and woocommerce products
+Let you user easily know whats have been posted since their last login. Can be enabled for posts , pages and woocommerce products
 
 <h4>Features</h4>
 
