@@ -23,6 +23,8 @@ Features
 * Customize text from plugin options page
 * Separate layout/design template so you can create your own template to be used and overwrite the one provided
 
+Other plugins that you might like [Click Here](http://pidhasome.com/albdesign/plugins/woocommerce_donations/)
+
 == Installation ==
 
 Go to the wordpress administration area then on PLUGINS , ADD NEW , UPLOAD and browse to  the zip file you downloaded  and click INSTALL.
