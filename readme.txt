@@ -23,7 +23,6 @@ Features
 * Customize text from plugin options page
 * Separate layout/design template so you can create your own template to be used and overwrite the one provided
 
-
 == Installation ==
 
 Go to the wordpress administration area then on PLUGINS , ADD NEW , UPLOAD and browse to  the zip file you downloaded  and click INSTALL.
@@ -37,7 +36,6 @@ Place the shortcode **[albdesign_whatsnew]** where you want the plugin to show
 
 Create a folder named albdesign_whatsnew inside your active theme and place a file named whatsnew.php inside that.
 You can check the provided file in order to see what options you can use
-
 
 == Screenshots ==
 
