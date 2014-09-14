@@ -37,8 +37,8 @@ Place the shortcode **[albdesign_whatsnew]** where you want the plugin to show
 
 = How can I use my own template =
 
-Create a folder named albdesign_whatsnew inside your active theme and place a file named whatsnew.php inside that.
-You can check the provided file in order to see what options you can use
+Create a folder named **albdesign_whatsnew** inside your active theme and place a file named **whatsnew.php** inside that.
+You can check the provided file under the **template** folder of the plugin in order to see how it works
 
 == Screenshots ==
 
