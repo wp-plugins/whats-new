@@ -1,0 +1,53 @@
+/* Header text i.e "New Posts" , "New Pages" , "New Products" */
+.albdesign_whatsnew_text_header{
+	color:#15547E;
+	font-weight:bold;
+}
+
+/* Text when nothing is found */
+.albdesign_whatsnew_nothing_new_text{
+	color:red;
+}
+
+.albdesign_whatsnew_single_container{
+	width:100%;
+	padding-bottom: 20px;
+}
+
+/* featured image */
+.albdesign_whatsnew_featured_image{
+	float:left;
+	width:30%;
+}
+
+/* author span */
+span.albdesign_whats_new_author_span{
+	font-size:12px;
+	color:#00ADEF;
+}
+
+/* date span */
+span.albdesign_whats_new_post_date_span{
+	font-size:12px;
+	color:#00ADEF;
+}
+
+/* post content and link container */
+.albdesign_whatsnew_content{}
+
+/* title and link for the new post,page,product */
+a.albdesign_whatsnew_title_link{
+	color:#757575;
+	font-weight:bold;
+	
+}
+
+/* new post,page,product content */
+.albdesign_whatsnew_content{}
+
+/* clear floating div*/
+.albdesign_whatsnew_div_clear{
+	width:100%;
+	height:1px;
+	clear:both;
+}
