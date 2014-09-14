@@ -26,7 +26,10 @@ Features
 == Installation ==
 
 Go to the wordpress administration area then on PLUGINS , ADD NEW , UPLOAD and browse to  the zip file you downloaded  and click INSTALL.
+
 Activate  through the 'Plugins' menu in WordPress
+
+Configure the plugin options on the WordPress admin dashboard
 
 Place the shortcode **[albdesign_whatsnew]** where you want the plugin to show
 
