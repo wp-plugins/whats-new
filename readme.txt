@@ -31,6 +31,8 @@ Let you user easily know whats have been posted since their last login. Can be e
 
 Other plugins that you might like [Click Here](http://pidhasome.com/albdesign/plugins/woocommerce_donations/)
 
+Woocommerce,Woothemes plugins that you might like [Click Here](http://woothemes-plugins.com/)
+
 == Installation ==
 
 Go to the wordpress administration area then on PLUGINS , ADD NEW , UPLOAD and browse to  the zip file you downloaded  and click INSTALL.
