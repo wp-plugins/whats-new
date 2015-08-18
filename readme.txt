@@ -3,8 +3,8 @@ Contributors: skomfare2
 Donate link: http://pidhasome.com/albdesign/plugins/woocommerce_donations/donate/
 Tags: last published, lately posted, new pages, new post, whats new, woocommerce latest products, recent activity
 Requires at least: 3.8.1
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.2.4
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
